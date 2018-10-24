@@ -8,4 +8,5 @@ app_name = 'app'
 
 urlpatterns = [
     path('car/', apis.CarSearchAPI.as_view(), name='car_search'),
+    path('httpcode/', apis.HttpCodeSearchAPI.as_view(), name='httpcode_search'),
 ]

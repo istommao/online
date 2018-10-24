@@ -12,3 +12,12 @@ class CarSearchAPI(APIView):
 
         retdata = {'result': services.car_search(keyword)}
         return Response(retdata)
+
+
+class HttpCodeSearchAPI(APIView):
+
+    def get(self, request):
+        keyword = request.query_params.get('k', '')
+
+        retdata = {'result': services.http_code_search(keyword)}
+        return Response(retdata)
