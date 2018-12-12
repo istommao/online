@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>search</title>
+    <style>
+    body, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, img, input, li, ol, p, table, td, ul {
+        margin: 0;
+        padding: 0;
+    }
+    #search-container {
+        position: absolute;
+        top: 36%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+    }
+    #search-container .search-bar {
+        width: 530px;
+        height: 48px;
+        padding: 0 8px;
+        box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.17), 0 0 0 1px rgba(0, 0, 0, 0.08);
+        transition: box-shadow 100ms;
+        border-radius: 3px;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+    }
+    #search-container .search-bar #search-input {
+        font-family: "微软雅黑";
+        width: 450px;
+        height: 48px;
+        box-sizing: border-box;
+        line-height: 48px;
+        padding: 0 10px;
+        font-size: 16px;
+        float: left;
+        border: none;
+        letter-spacing: 1px;
+    }
+    #search-container .search-bar #search-btn {
+        float: left;
+        width: 80px;
+        height: 48px;
+        line-height: 48px;
+        box-sizing: border-box;
+        background: url("/static/imgs/search.png") no-repeat center center;
+        background-size: 22px 22px;
+        text-align: center;
+        font-size: 16px;
+        color: #fff;
+        letter-spacing: 2px;
+        cursor: pointer;
+    }
+    input, select, textarea {
+        outline: none;
+    }
+
+    #search-container .suggesst-words {
+        display: none;
+        position: absolute;
+        left: -1px;
+        top: 45px;
+        width: 548px;
+        box-sizing: border-box;
+        background-color: #fff;
+        font-size: 14px;
+        border-bottom: 1px solid #DDD;
+        border-right: 1px solid #DDD;
+        border-left: 1px solid #DDD;
+        border-radius: 4px;
+    }
+    ul, menu, dir {
+        display: block;
+        list-style-type: disc;
+        /*margin-block-start: 1em;*/
+        margin-block-end: 0.5em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        padding-inline-start: 8px;
+    }
+    #search-container .suggesst-words li {
+        cursor: pointer;
+        padding: 0 10px;
+        height: 30px;
+        line-height: 30px;
+    }
+    li {
+        list-style: none;
+    }
+    </style>
+</head>
+<body>
+    <div id="search-container">
+        <div class="search-bar clearfix">
+            <input type="text" name="search-input" id="search-input" placeholder="输入关键词" autofocus="autofocus">
+            <span id="search-btn"></span>
+        </div>
+        <div class="suggesst-words">
+            <ul id="suggesst-content"><li>python入门</li><li>python print</li><li>python map</li><li>python set</li><li>python if</li></ul>
+        </div>
+
+    </div>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+
+    <script>
+        $('#search-input').focus();
+        function changeSuggesstWords(obj) {
+            if(obj.val() == '') {
+                $('.suggesst-words').hide();
+            } else {
+                $('.suggesst-words').show();
+            }
+        }
+        $('#search-input').on('keyup', function(ev) {
+            changeSuggesstWords($(this))
+        });
+
+    </script>
+</body>
+</html>

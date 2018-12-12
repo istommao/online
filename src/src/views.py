@@ -25,3 +25,8 @@ class CollectorListView(TemplateView):
 class CodeSnippetListView(TemplateView):
 
     template_name = 'front/codesnippet/index.html'
+
+
+class SearchView(TemplateView):
+
+    template_name = 'front/search.html'
