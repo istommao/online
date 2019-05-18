@@ -4,748 +4,748 @@ ISO标准国家代码 https://www.wikiwand.com/zh-hans/ISO_3166-1
 国旗图片来自 http://flagpedia.asia/
 
 ## 美国本土外小岛屿
-![flag](../resources/um.png)
+![flag](../resources/flags/um.png)
 
 ## 南极洲
-![flag](../resources/aq.png)
+![flag](../resources/flags/aq.png)
 
 ## 伊拉克
-![flag](../resources/iq.png)
+![flag](../resources/flags/iq.png)
 
 ## 塞拉利昂
-![flag](../resources/sl.png)
+![flag](../resources/flags/sl.png)
 
 ## 老挝
-![flag](../resources/la.png)
+![flag](../resources/flags/la.png)
 
 ## 坦桑尼亚
-![flag](../resources/tz.png)
+![flag](../resources/flags/tz.png)
 
 ## 阿尔及利亚
-![flag](../resources/dz.png)
+![flag](../resources/flags/dz.png)
 
 ## 秘鲁
-![flag](../resources/pe.png)
+![flag](../resources/flags/pe.png)
 
 ## 法属南方和南极洲领地
-![flag](../resources/tf.png)
+![flag](../resources/flags/tf.png)
 
 ## 诺福克岛
-![flag](../resources/nf.png)
+![flag](../resources/flags/nf.png)
 
 ## 古巴
-![flag](../resources/cu.png)
+![flag](../resources/flags/cu.png)
 
 ## 孟加拉国
-![flag](../resources/bgd.png)
+![flag](../resources/flags/bgd.png)
 
 ## 利比里亚
-![flag](../resources/lr.png)
+![flag](../resources/flags/lr.png)
 
 ## 南乔治亚和南桑威奇群岛
-![flag](../resources/gs.png)
+![flag](../resources/flags/gs.png)
 
 ## 萨尔瓦多
-![flag](../resources/sv.png)
+![flag](../resources/flags/sv.png)
 
 ## 马提尼克
-![flag](../resources/mq.png)
+![flag](../resources/flags/mq.png)
 
 ## 义大利
-![flag](../resources/it.png)
+![flag](../resources/flags/it.png)
 
 ## 安道尔
-![flag](../resources/ad.png)
+![flag](../resources/flags/ad.png)
 
 ## 墨西哥
-![flag](../resources/mx.png)
+![flag](../resources/flags/mx.png)
 
 ## 安地卡及巴布达
-![flag](../resources/ag.png)
+![flag](../resources/flags/ag.png)
 
 ## 蒙特内哥罗
-![flag](../resources/me.png)
+![flag](../resources/flags/me.png)
 
 ## 科特迪瓦
-![flag](../resources/ci.png)
+![flag](../resources/flags/ci.png)
 
 ## 加拿大
-![flag](../resources/ca.png)
+![flag](../resources/flags/ca.png)
 
 ## 圣诞岛
-![flag](../resources/cx.png)
+![flag](../resources/flags/cx.png)
 
 ## 密克罗尼西亚联邦
-![flag](../resources/fm.png)
+![flag](../resources/flags/fm.png)
 
 ## 印尼
-![flag](../resources/id.png)
+![flag](../resources/flags/id.png)
 
 ## 乍得
-![flag](../resources/td.png)
+![flag](../resources/flags/td.png)
 
 ## 加彭
-![flag](../resources/ga.png)
+![flag](../resources/flags/ga.png)
 
 ## 尼加拉瓜
-![flag](../resources/ni.png)
+![flag](../resources/flags/ni.png)
 
 ## 斯威士兰
-![flag](../resources/sz.png)
+![flag](../resources/flags/sz.png)
 
 ## 科科斯（基林）群岛
-![flag](../resources/cc.png)
+![flag](../resources/flags/cc.png)
 
 ## 赛普勒斯
-![flag](../resources/cy.png)
+![flag](../resources/flags/cy.png)
 
 ## 克罗地亚
-![flag](../resources/hr.png)
+![flag](../resources/flags/hr.png)
 
 ## 叶门
-![flag](../resources/ye.png)
+![flag](../resources/flags/ye.png)
 
 ## 匈牙利
-![flag](../resources/hu.png)
+![flag](../resources/flags/hu.png)
 
 ## 喀麦隆
-![flag](../resources/cm.png)
+![flag](../resources/flags/cm.png)
 
 ## 波多黎各
-![flag](../resources/pr.png)
+![flag](../resources/flags/pr.png)
 
 ## 马里
-![flag](../resources/ml.png)
+![flag](../resources/flags/ml.png)
 
 ## 尼日尔
-![flag](../resources/ne.png)
+![flag](../resources/flags/ne.png)
 
 ## 几内亚比绍
-![flag](../resources/gw.png)
+![flag](../resources/flags/gw.png)
 
 ## 中非
-![flag](../resources/cf.png)
+![flag](../resources/flags/cf.png)
 
 ## 直布罗陀
-![flag](../resources/gi.png)
+![flag](../resources/flags/gi.png)
 
 ## 巴布亚新几内亚
-![flag](../resources/pg.png)
+![flag](../resources/flags/pg.png)
 
 ## 伊朗
-![flag](../resources/ir.png)
+![flag](../resources/flags/ir.png)
 
 ## 蒙特塞拉特
-![flag](../resources/ms.png)
+![flag](../resources/flags/ms.png)
 
 ## 澳大利亚
-![flag](../resources/au.png)
+![flag](../resources/flags/au.png)
 
 ## 洪都拉斯
-![flag](../resources/hn.png)
+![flag](../resources/flags/hn.png)
 
 ## 阿曼
-![flag](../resources/om.png)
+![flag](../resources/flags/om.png)
 
 ## 冈比亚
-![flag](../resources/gm.png)
+![flag](../resources/flags/gm.png)
 
 ## 法属圭亚那
-![flag](../resources/gf.png)
+![flag](../resources/flags/gf.png)
 
 ## 皮特凯恩群岛
-![flag](../resources/pn.png)
+![flag](../resources/flags/pn.png)
 
 ## 爱尔兰
-![flag](../resources/ie.png)
+![flag](../resources/flags/ie.png)
 
 ## 北马里亚纳群岛
-![flag](../resources/mp.png)
+![flag](../resources/flags/mp.png)
 
 ## 圣皮埃尔和密克隆
-![flag](../resources/pm.png)
+![flag](../resources/flags/pm.png)
 
 ## 贝宁
-![flag](../resources/bj.png)
+![flag](../resources/flags/bj.png)
 
 ## 布隆迪
-![flag](../resources/bi.png)
+![flag](../resources/flags/bi.png)
 
 ## 格陵兰
-![flag](../resources/gl.png)
+![flag](../resources/flags/gl.png)
 
 ## 莫桑比克
-![flag](../resources/mz.png)
+![flag](../resources/flags/mz.png)
 
 ## 委内瑞拉
-![flag](../resources/ve.png)
+![flag](../resources/flags/ve.png)
 
 ## 加纳
-![flag](../resources/gh.png)
+![flag](../resources/flags/gh.png)
 
 ## 捷克
-![flag](../resources/cz.png)
+![flag](../resources/flags/cz.png)
 
 ## 芬兰
-![flag](../resources/fi.png)
+![flag](../resources/flags/fi.png)
 
 ## 瓜德罗普
-![flag](../resources/gp.png)
+![flag](../resources/flags/gp.png)
 
 ## 卢旺达
-![flag](../resources/rw.png)
+![flag](../resources/flags/rw.png)
 
 ## 斯洛维尼亚
-![flag](../resources/si.png)
+![flag](../resources/flags/si.png)
 
 ## 亚美尼亚
-![flag](../resources/am.png)
+![flag](../resources/flags/am.png)
 
 ## 瓦努阿图
-![flag](../resources/vu.png)
+![flag](../resources/flags/vu.png)
 
 ## 美属维尔京群岛
-![flag](../resources/vi.png)
+![flag](../resources/flags/vi.png)
 
 ## 千里达及托巴哥
-![flag](../resources/tt.png)
+![flag](../resources/flags/tt.png)
 
 ## 索马利亚
-![flag](../resources/so.png)
+![flag](../resources/flags/so.png)
 
 ## 库克群岛
-![flag](../resources/ck.png)
+![flag](../resources/flags/ck.png)
 
 ## 巴勒斯坦
-![flag](../resources/ps.png)
+![flag](../resources/flags/ps.png)
 
 ## 马来西亚
-![flag](../resources/my.png)
+![flag](../resources/flags/my.png)
 
 ## 文莱
-![flag](../resources/bn.png)
+![flag](../resources/flags/bn.png)
 
 ## 日本
-![flag](../resources/jp.png)
+![flag](../resources/flags/jp.png)
 
 ## 苏丹
-![flag](../resources/sd.png)
+![flag](../resources/flags/sd.png)
 
 ## 奈及利亚
-![flag](../resources/ng.png)
+![flag](../resources/flags/ng.png)
 
 ## 安圭拉
-![flag](../resources/ai.png)
+![flag](../resources/flags/ai.png)
 
 ## 圣文森特和格林纳丁斯
-![flag](../resources/vc.png)
+![flag](../resources/flags/vc.png)
 
 ## 挪威
-![flag](../resources/no.png)
+![flag](../resources/flags/no.png)
 
 ## 蒙古国
-![flag](../resources/mn.png)
+![flag](../resources/flags/mn.png)
 
 ## 哈萨克斯坦
-![flag](../resources/kz.png)
+![flag](../resources/flags/kz.png)
 
 ## 危地马拉
-![flag](../resources/gt.png)
+![flag](../resources/flags/gt.png)
 
 ## 多哥
-![flag](../resources/tg.png)
+![flag](../resources/flags/tg.png)
 
 ## 荷兰加勒比区
-![flag](../resources/bq.png)
+![flag](../resources/flags/bq.png)
 
 ## 奥地利
-![flag](../resources/at.png)
+![flag](../resources/flags/at.png)
 
 ## 冰岛
-![flag](../resources/is.png)
+![flag](../resources/flags/is.png)
 
 ## 科威特
-![flag](../resources/kw.png)
+![flag](../resources/flags/kw.png)
 
 ## 哥伦比亚
-![flag](../resources/co.png)
+![flag](../resources/flags/co.png)
 
 ## 科摩罗
-![flag](../resources/km.png)
+![flag](../resources/flags/km.png)
 
 ## 基里巴斯
-![flag](../resources/ki.png)
+![flag](../resources/flags/ki.png)
 
 ## 多米尼克
-![flag](../resources/dm.png)
+![flag](../resources/flags/dm.png)
 
 ## 叙利亚
-![flag](../resources/sy.png)
+![flag](../resources/flags/sy.png)
 
 ## 柬埔寨
-![flag](../resources/kh.png)
+![flag](../resources/flags/kh.png)
 
 ## 泽西
-![flag](../resources/je.png)
+![flag](../resources/flags/je.png)
 
 ## 圣卢西亚
-![flag](../resources/lc.png)
+![flag](../resources/flags/lc.png)
 
 ## 马达加斯加
-![flag](../resources/mg.png)
+![flag](../resources/flags/mg.png)
 
 ## 巴拉圭
-![flag](../resources/py.png)
+![flag](../resources/flags/py.png)
 
 ## 比利时
-![flag](../resources/be.png)
+![flag](../resources/flags/be.png)
 
 ## 罗马尼亚
-![flag](../resources/ro.png)
+![flag](../resources/flags/ro.png)
 
 ## 赫德岛和麦克唐纳群岛
-![flag](../resources/hm.png)
+![flag](../resources/flags/hm.png)
 
 ## 伯利兹
-![flag](../resources/bz.png)
+![flag](../resources/flags/bz.png)
 
 ## 汤加
-![flag](../resources/to.png)
+![flag](../resources/flags/to.png)
 
 ## 纽埃
-![flag](../resources/nu.png)
+![flag](../resources/flags/nu.png)
 
 ## 阿尔巴尼亚
-![flag](../resources/al.png)
+![flag](../resources/flags/al.png)
 
 ## 泰国
-![flag](../resources/th.png)
+![flag](../resources/flags/th.png)
 
 ## 缅甸
-![flag](../resources/mm.png)
+![flag](../resources/flags/mm.png)
 
 ## 尼泊尔
-![flag](../resources/np.png)
+![flag](../resources/flags/np.png)
 
 ## 阿塞拜疆
-![flag](../resources/az.png)
+![flag](../resources/flags/az.png)
 
 ## 荷兰
-![flag](../resources/nl.png)
+![flag](../resources/flags/nl.png)
 
 ## 布吉纳法索
-![flag](../resources/bf.png)
+![flag](../resources/flags/bf.png)
 
 ## 法国
-![flag](../resources/fr.png)
+![flag](../resources/flags/fr.png)
 
 ## 希腊
-![flag](../resources/gr.png)
+![flag](../resources/flags/gr.png)
 
 ## 以色列
-![flag](../resources/il.png)
+![flag](../resources/flags/il.png)
 
 ## 刚果（布）
-![flag](../resources/cg.png)
+![flag](../resources/flags/cg.png)
 
 ## 巴哈马
-![flag](../resources/bs.png)
+![flag](../resources/flags/bs.png)
 
 ## 圣马丁
-![flag](../resources/sx.png)
+![flag](../resources/flags/sx.png)
 
 ## 圭亚那
-![flag](../resources/gy.png)
+![flag](../resources/flags/gy.png)
 
 ## 衣索比亚
-![flag](../resources/et.png)
+![flag](../resources/flags/et.png)
 
 ## 瑞典
-![flag](../resources/se.png)
+![flag](../resources/flags/se.png)
 
 ## 印度
-![flag](../resources/in.png)
+![flag](../resources/flags/in.png)
 
 ## 斐济
-![flag](../resources/fj.png)
+![flag](../resources/flags/fj.png)
 
 ## 新喀里多尼亚
-![flag](../resources/nc.png)
+![flag](../resources/flags/nc.png)
 
 ## 卡塔尔
-![flag](../resources/qa.png)
+![flag](../resources/flags/qa.png)
 
 ## 否
-![flag](../resources/twn.png)
+![flag](../resources/flags/twn.png)
 
 ## 图瓦卢
-![flag](../resources/tv.png)
+![flag](../resources/flags/tv.png)
 
 ## 瑞士
-![flag](../resources/ch.png)
+![flag](../resources/flags/ch.png)
 
 ## 列支敦斯登
-![flag](../resources/li.png)
+![flag](../resources/flags/li.png)
 
 ## 塞舌尔
-![flag](../resources/sc.png)
+![flag](../resources/flags/sc.png)
 
 ## 留尼汪
-![flag](../resources/re.png)
+![flag](../resources/flags/re.png)
 
 ## 刚果（金）
-![flag](../resources/cd.png)
+![flag](../resources/flags/cd.png)
 
 ## 西班牙
-![flag](../resources/es.png)
+![flag](../resources/flags/es.png)
 
 ## 乌干达
-![flag](../resources/ug.png)
+![flag](../resources/flags/ug.png)
 
 ## 法属圣马丁
-![flag](../resources/mf.png)
+![flag](../resources/flags/mf.png)
 
 ## 保加利亚
-![flag](../resources/bg.png)
+![flag](../resources/flags/bg.png)
 
 ## 几内亚
-![flag](../resources/gn.png)
+![flag](../resources/flags/gn.png)
 
 ## 智利
-![flag](../resources/cl.png)
+![flag](../resources/flags/cl.png)
 
 ## 赤道几内亚
-![flag](../resources/gq.png)
+![flag](../resources/flags/gq.png)
 
 ## 美属萨摩亚
-![flag](../resources/as.png)
+![flag](../resources/flags/as.png)
 
 ## 玻利维亚
-![flag](../resources/bo.png)
+![flag](../resources/flags/bo.png)
 
 ## 瓦利斯和富图纳
-![flag](../resources/wf.png)
+![flag](../resources/flags/wf.png)
 
 ## 格鲁吉亚
-![flag](../resources/ge.png)
+![flag](../resources/flags/ge.png)
 
 ## 阿根廷
-![flag](../resources/ar.png)
+![flag](../resources/flags/ar.png)
 
 ## 德国
-![flag](../resources/de.png)
+![flag](../resources/flags/de.png)
 
 ## 波兰
-![flag](../resources/pl.png)
+![flag](../resources/flags/pl.png)
 
 ## 塔吉克斯坦
-![flag](../resources/tj.png)
+![flag](../resources/flags/tj.png)
 
 ## 乌拉圭
-![flag](../resources/uy.png)
+![flag](../resources/flags/uy.png)
 
 ## 拉脱维亚
-![flag](../resources/lv.png)
+![flag](../resources/flags/lv.png)
 
 ## 韩国
-![flag](../resources/kr.png)
+![flag](../resources/flags/kr.png)
 
 ## 哥斯达黎加
-![flag](../resources/cr.png)
+![flag](../resources/flags/cr.png)
 
 ## 卢森堡
-![flag](../resources/lu.png)
+![flag](../resources/flags/lu.png)
 
 ## 约旦
-![flag](../resources/jo.png)
+![flag](../resources/flags/jo.png)
 
 ## 阿富汗
-![flag](../resources/af.png)
+![flag](../resources/flags/af.png)
 
 ## 百慕大
-![flag](../resources/bm.png)
+![flag](../resources/flags/bm.png)
 
 ## 香港
-![flag](../resources/hk.png)
+![flag](../resources/flags/hk.png)
 
 ## 立陶宛
-![flag](../resources/lt.png)
+![flag](../resources/flags/lt.png)
 
 ## 厄立特里亚
-![flag](../resources/er.png)
+![flag](../resources/flags/er.png)
 
 ## 黎巴嫩
-![flag](../resources/lb.png)
+![flag](../resources/flags/lb.png)
 
 ## 阿鲁巴
-![flag](../resources/aw.png)
+![flag](../resources/flags/aw.png)
 
 ## 所罗门群岛
-![flag](../resources/sb.png)
+![flag](../resources/flags/sb.png)
 
 ## 埃及
-![flag](../resources/eg.png)
+![flag](../resources/flags/eg.png)
 
 ## 圣巴泰勒米
-![flag](../resources/bl.png)
+![flag](../resources/flags/bl.png)
 
 ## 博茨瓦纳
-![flag](../resources/bw.png)
+![flag](../resources/flags/bw.png)
 
 ## 萨摩亚
-![flag](../resources/ws.png)
+![flag](../resources/flags/ws.png)
 
 ## 吉尔吉斯斯坦
-![flag](../resources/kg.png)
+![flag](../resources/flags/kg.png)
 
 ## 多米尼加
-![flag](../resources/do.png)
+![flag](../resources/flags/do.png)
 
 ## 塞内加尔
-![flag](../resources/sn.png)
+![flag](../resources/flags/sn.png)
 
 ## 海地
-![flag](../resources/ht.png)
+![flag](../resources/flags/ht.png)
 
 ## 突尼西亚
-![flag](../resources/tn.png)
+![flag](../resources/flags/tn.png)
 
 ## 斯里兰卡
-![flag](../resources/lk.png)
+![flag](../resources/flags/lk.png)
 
 ## 模里西斯
-![flag](../resources/mu.png)
+![flag](../resources/flags/mu.png)
 
 ## 美国
-![flag](../resources/us.png)
+![flag](../resources/flags/us.png)
 
 ## 利比亚
-![flag](../resources/ly.png)
+![flag](../resources/flags/ly.png)
 
 ## 巴拿马
-![flag](../resources/pa.png)
+![flag](../resources/flags/pa.png)
 
 ## 马尔他
-![flag](../resources/mt.png)
+![flag](../resources/flags/mt.png)
 
 ## 葡萄牙
-![flag](../resources/pt.png)
+![flag](../resources/flags/pt.png)
 
 ## 苏里南
-![flag](../resources/sr.png)
+![flag](../resources/flags/sr.png)
 
 ## 乌克兰
-![flag](../resources/ua.png)
+![flag](../resources/flags/ua.png)
 
 ## 福克兰群岛
-![flag](../resources/fk.png)
+![flag](../resources/flags/fk.png)
 
 ## 尚比亚
-![flag](../resources/zm.png)
+![flag](../resources/flags/zm.png)
 
 ## 摩尔多瓦
-![flag](../resources/md.png)
+![flag](../resources/flags/md.png)
 
 ## 法属玻里尼西亚
-![flag](../resources/pf.png)
+![flag](../resources/flags/pf.png)
 
 ## 佛得角
-![flag](../resources/cv.png)
+![flag](../resources/flags/cv.png)
 
 ## 奥兰
-![flag](../resources/ax.png)
+![flag](../resources/flags/ax.png)
 
 ## 特克斯和凯科斯群岛
-![flag](../resources/tc.png)
+![flag](../resources/flags/tc.png)
 
 ## 库拉索
-![flag](../resources/cw.png)
+![flag](../resources/flags/cw.png)
 
 ## 阿联酋
-![flag](../resources/ae.png)
+![flag](../resources/flags/ae.png)
 
 ## 摩纳哥
-![flag](../resources/mc.png)
+![flag](../resources/flags/mc.png)
 
 ## 斯瓦尔巴和扬马延
-![flag](../resources/sj.png)
+![flag](../resources/flags/sj.png)
 
 ## 爱沙尼亚
-![flag](../resources/ee.png)
+![flag](../resources/flags/ee.png)
 
 ## 沙乌地阿拉伯
-![flag](../resources/sa.png)
+![flag](../resources/flags/sa.png)
 
 ## 北马其顿
-![flag](../resources/mk.png)
+![flag](../resources/flags/mk.png)
 
 ## 托克劳
-![flag](../resources/tk.png)
+![flag](../resources/flags/tk.png)
 
 ## 圣多美和普林西比
-![flag](../resources/st.png)
+![flag](../resources/flags/st.png)
 
 ## 圣基茨和尼维斯
-![flag](../resources/kn.png)
+![flag](../resources/flags/kn.png)
 
 ## 法罗群岛
-![flag](../resources/fo.png)
+![flag](../resources/flags/fo.png)
 
 ## 巴西
-![flag](../resources/br.png)
+![flag](../resources/flags/br.png)
 
 ## 丹麦
-![flag](../resources/dk.png)
+![flag](../resources/flags/dk.png)
 
 ## 牙买加
-![flag](../resources/jm.png)
+![flag](../resources/flags/jm.png)
 
 ## 赖索托
-![flag](../resources/ls.png)
+![flag](../resources/flags/ls.png)
 
 ## 摩洛哥
-![flag](../resources/ma.png)
+![flag](../resources/flags/ma.png)
 
 ## 马绍尔群岛
-![flag](../resources/mh.png)
+![flag](../resources/flags/mh.png)
 
 ## 朝鲜
-![flag](../resources/kp.png)
+![flag](../resources/flags/kp.png)
 
 ## 英属印度洋领地
-![flag](../resources/io.png)
+![flag](../resources/flags/io.png)
 
 ## 毛里塔尼亚
-![flag](../resources/mr.png)
+![flag](../resources/flags/mr.png)
 
 ## 巴基斯坦
-![flag](../resources/pk.png)
+![flag](../resources/flags/pk.png)
 
 ## 新加坡
-![flag](../resources/sg.png)
+![flag](../resources/flags/sg.png)
 
 ## 西撒哈拉
-![flag](../resources/eh.png)
+![flag](../resources/flags/eh.png)
 
 ## 布韦岛
-![flag](../resources/bv.png)
+![flag](../resources/flags/bv.png)
 
 ## 新西兰
-![flag](../resources/nz.png)
+![flag](../resources/flags/nz.png)
 
 ## 巴林
-![flag](../resources/bh.png)
+![flag](../resources/flags/bh.png)
 
 ## 不丹
-![flag](../resources/bt.png)
+![flag](../resources/flags/bt.png)
 
 ## 英国
-![flag](../resources/gb.png)
+![flag](../resources/flags/gb.png)
 
 ## 圣马力诺
-![flag](../resources/sm.png)
+![flag](../resources/flags/sm.png)
 
 ## 开曼群岛
-![flag](../resources/ky.png)
+![flag](../resources/flags/ky.png)
 
 ## 梵蒂冈
-![flag](../resources/va.png)
+![flag](../resources/flags/va.png)
 
 ## 英属维尔京群岛
-![flag](../resources/vg.png)
+![flag](../resources/flags/vg.png)
 
 ## 辛巴威
-![flag](../resources/zw.png)
+![flag](../resources/flags/zw.png)
 
 ## 马拉维
-![flag](../resources/mw.png)
+![flag](../resources/flags/mw.png)
 
 ## 马尔地夫
-![flag](../resources/mv.png)
+![flag](../resources/flags/mv.png)
 
 ## 马恩岛
-![flag](../resources/im.png)
+![flag](../resources/flags/im.png)
 
 ## 土库曼斯坦
-![flag](../resources/tm.png)
+![flag](../resources/flags/tm.png)
 
 ## 澳门
-![flag](../resources/mo.png)
+![flag](../resources/flags/mo.png)
 
 ## 肯尼亚
-![flag](../resources/ke.png)
+![flag](../resources/flags/ke.png)
 
 ## 斯洛伐克
-![flag](../resources/sk.png)
+![flag](../resources/flags/sk.png)
 
 ## 东帝汶
-![flag](../resources/tl.png)
+![flag](../resources/flags/tl.png)
 
 ## 塞尔维亚
-![flag](../resources/rs.png)
+![flag](../resources/flags/rs.png)
 
 ## 关岛
-![flag](../resources/gu.png)
+![flag](../resources/flags/gu.png)
 
 ## 巴巴多斯
-![flag](../resources/bb.png)
+![flag](../resources/flags/bb.png)
 
 ## 中国
-![flag](../resources/cn.png)
+![flag](../resources/flags/cn.png)
 
 ## 越南
-![flag](../resources/vn.png)
+![flag](../resources/flags/vn.png)
 
 ## 南非
-![flag](../resources/za.png)
+![flag](../resources/flags/za.png)
 
 ## 吉布提
-![flag](../resources/dj.png)
+![flag](../resources/flags/dj.png)
 
 ## 帛琉
-![flag](../resources/pw.png)
+![flag](../resources/flags/pw.png)
 
 ## 俄罗斯
-![flag](../resources/ru.png)
+![flag](../resources/flags/ru.png)
 
 ## 马约特
-![flag](../resources/yt.png)
+![flag](../resources/flags/yt.png)
 
 ## 格瑞那达
-![flag](../resources/gd.png)
+![flag](../resources/flags/gd.png)
 
 ## 瑙鲁
-![flag](../resources/nr.png)
+![flag](../resources/flags/nr.png)
 
 ## 根西
-![flag](../resources/gg.png)
+![flag](../resources/flags/gg.png)
 
 ## 菲律宾
-![flag](../resources/ph.png)
+![flag](../resources/flags/ph.png)
 
 ## 乌兹别克斯坦
-![flag](../resources/uz.png)
+![flag](../resources/flags/uz.png)
 
 ## 安哥拉
-![flag](../resources/ao.png)
+![flag](../resources/flags/ao.png)
 
 ## 波斯尼亚和黑塞哥维那
-![flag](../resources/ba.png)
+![flag](../resources/flags/ba.png)
 
 ## 南苏丹
-![flag](../resources/ss.png)
+![flag](../resources/flags/ss.png)
 
 ## 圣赫勒拿、阿森松和特里斯坦-达库尼亚
-![flag](../resources/sh.png)
+![flag](../resources/flags/sh.png)
 
 ## 纳米比亚
-![flag](../resources/na.png)
+![flag](../resources/flags/na.png)
 
 ## 厄瓜多尔
-![flag](../resources/ec.png)
+![flag](../resources/flags/ec.png)
 
 ## 白俄罗斯
-![flag](../resources/by.png)
+![flag](../resources/flags/by.png)
 
 ## 土耳其
-![flag](../resources/tr.png)
+![flag](../resources/flags/tr.png)
