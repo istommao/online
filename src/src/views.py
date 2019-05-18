@@ -30,3 +30,8 @@ class CodeSnippetListView(TemplateView):
 class SearchView(TemplateView):
 
     template_name = 'front/search.html'
+
+
+class MusicDemoView(TemplateView):
+
+    template_name = 'front/music/index.html'

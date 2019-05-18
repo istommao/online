@@ -25,6 +25,7 @@ urlpatterns = [
     path('column/', views.ColumnListView.as_view()),
     path('codesnippet/', views.CodeSnippetListView.as_view()),
     path('search/', views.SearchView.as_view()),
+    path('music/', views.MusicDemoView.as_view()),
 
     path('admin/', admin.site.urls),
     path('app/api/', include('app.urls')),
