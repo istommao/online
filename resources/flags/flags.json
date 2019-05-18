@@ -1,0 +1,1496 @@
+{
+    "LV": {
+        "cn_name": "拉脱维亚",
+        "en_name": "Latvia",
+        "three_code": "LVA",
+        "d_code": "428"
+    },
+    "WF": {
+        "cn_name": "瓦利斯和富图纳",
+        "en_name": "WallisandFutuna",
+        "three_code": "WLF",
+        "d_code": "876"
+    },
+    "BF": {
+        "cn_name": "布吉纳法索",
+        "en_name": "BurkinaFaso",
+        "three_code": "BFA",
+        "d_code": "854"
+    },
+    "BG": {
+        "cn_name": "保加利亚",
+        "en_name": "Bulgaria",
+        "three_code": "BGR",
+        "d_code": "100"
+    },
+    "BGD": {
+        "cn_name": "孟加拉国",
+        "en_name": "BangladeshBD",
+        "three_code": "050",
+        "d_code": "孟加拉国"
+    },
+    "BA": {
+        "cn_name": "波斯尼亚和黑塞哥维那",
+        "en_name": "BosniaandHerzegovina",
+        "three_code": "BIH",
+        "d_code": "070"
+    },
+    "BB": {
+        "cn_name": "巴巴多斯",
+        "en_name": "Barbados",
+        "three_code": "BRB",
+        "d_code": "052"
+    },
+    "BE": {
+        "cn_name": "比利时",
+        "en_name": "Belgium",
+        "three_code": "BEL",
+        "d_code": "056"
+    },
+    "BL": {
+        "cn_name": "圣巴泰勒米",
+        "en_name": "SaintBarthélemy",
+        "three_code": "BLM",
+        "d_code": "652"
+    },
+    "BM": {
+        "cn_name": "百慕大",
+        "en_name": "Bermuda",
+        "three_code": "BMU",
+        "d_code": "060"
+    },
+    "BN": {
+        "cn_name": "文莱",
+        "en_name": "BruneiDarussalam",
+        "three_code": "BRN",
+        "d_code": "096"
+    },
+    "BO": {
+        "cn_name": "玻利维亚",
+        "en_name": "Bolivia(PlurinationalStateof)",
+        "three_code": "BOL",
+        "d_code": "068"
+    },
+    "JP": {
+        "cn_name": "日本",
+        "en_name": "Japan",
+        "three_code": "JPN",
+        "d_code": "392"
+    },
+    "BI": {
+        "cn_name": "布隆迪",
+        "en_name": "Burundi",
+        "three_code": "BDI",
+        "d_code": "108"
+    },
+    "BJ": {
+        "cn_name": "贝宁",
+        "en_name": "Benin",
+        "three_code": "BEN",
+        "d_code": "204"
+    },
+    "BT": {
+        "cn_name": "不丹",
+        "en_name": "Bhutan",
+        "three_code": "BTN",
+        "d_code": "064"
+    },
+    "JM": {
+        "cn_name": "牙买加",
+        "en_name": "Jamaica",
+        "three_code": "JAM",
+        "d_code": "388"
+    },
+    "BV": {
+        "cn_name": "布韦岛",
+        "en_name": "BouvetIsland",
+        "three_code": "BVT",
+        "d_code": "074"
+    },
+    "JO": {
+        "cn_name": "约旦",
+        "en_name": "Jordan",
+        "three_code": "JOR",
+        "d_code": "400"
+    },
+    "WS": {
+        "cn_name": "萨摩亚",
+        "en_name": "Samoa",
+        "three_code": "WSM",
+        "d_code": "882"
+    },
+    "BQ": {
+        "cn_name": "荷兰加勒比区",
+        "en_name": "Bonaire,SintEustatiusandSaba",
+        "three_code": "BES",
+        "d_code": "535"
+    },
+    "BR": {
+        "cn_name": "巴西",
+        "en_name": "Brazil",
+        "three_code": "BRA",
+        "d_code": "076"
+    },
+    "BS": {
+        "cn_name": "巴哈马",
+        "en_name": "Bahamas",
+        "three_code": "BHS",
+        "d_code": "044"
+    },
+    "JE": {
+        "cn_name": "泽西",
+        "en_name": "Jersey",
+        "three_code": "JEY",
+        "d_code": "832"
+    },
+    "BY": {
+        "cn_name": "白俄罗斯",
+        "en_name": "Belarus",
+        "three_code": "BLR",
+        "d_code": "112"
+    },
+    "BZ": {
+        "cn_name": "伯利兹",
+        "en_name": "Belize",
+        "three_code": "BLZ",
+        "d_code": "084"
+    },
+    "RU": {
+        "cn_name": "俄罗斯",
+        "en_name": "RussianFederation",
+        "three_code": "RUS",
+        "d_code": "643"
+    },
+    "RW": {
+        "cn_name": "卢旺达",
+        "en_name": "Rwanda",
+        "three_code": "RWA",
+        "d_code": "646"
+    },
+    "RS": {
+        "cn_name": "塞尔维亚",
+        "en_name": "Serbia",
+        "three_code": "SRB",
+        "d_code": "688"
+    },
+    "LT": {
+        "cn_name": "立陶宛",
+        "en_name": "Lithuania",
+        "three_code": "LTU",
+        "d_code": "440"
+    },
+    "RE": {
+        "cn_name": "留尼汪",
+        "en_name": "Réunion",
+        "three_code": "REU",
+        "d_code": "638"
+    },
+    "TM": {
+        "cn_name": "土库曼斯坦",
+        "en_name": "Turkmenistan",
+        "three_code": "TKM",
+        "d_code": "795"
+    },
+    "LR": {
+        "cn_name": "利比里亚",
+        "en_name": "Liberia",
+        "three_code": "LBR",
+        "d_code": "430"
+    },
+    "RO": {
+        "cn_name": "罗马尼亚",
+        "en_name": "Romania",
+        "three_code": "ROU",
+        "d_code": "642"
+    },
+    "LS": {
+        "cn_name": "赖索托",
+        "en_name": "Lesotho",
+        "three_code": "LSO",
+        "d_code": "426"
+    },
+    "GW": {
+        "cn_name": "几内亚比绍",
+        "en_name": "Guinea-Bissau",
+        "three_code": "GNB",
+        "d_code": "624"
+    },
+    "GU": {
+        "cn_name": "关岛",
+        "en_name": "Guam",
+        "three_code": "GUM",
+        "d_code": "316"
+    },
+    "GT": {
+        "cn_name": "危地马拉",
+        "en_name": "Guatemala",
+        "three_code": "GTM",
+        "d_code": "320"
+    },
+    "GS": {
+        "cn_name": "南乔治亚和南桑威奇群岛",
+        "en_name": "SouthGeorgiaandtheSouthSandwichIslands",
+        "three_code": "SGS",
+        "d_code": "239"
+    },
+    "GR": {
+        "cn_name": "希腊",
+        "en_name": "Greece",
+        "three_code": "GRC",
+        "d_code": "300"
+    },
+    "GQ": {
+        "cn_name": "赤道几内亚",
+        "en_name": "EquatorialGuinea",
+        "three_code": "GNQ",
+        "d_code": "226"
+    },
+    "GP": {
+        "cn_name": "瓜德罗普",
+        "en_name": "Guadeloupe",
+        "three_code": "GLP",
+        "d_code": "312"
+    },
+    "BH": {
+        "cn_name": "巴林",
+        "en_name": "Bahrain",
+        "three_code": "BHR",
+        "d_code": "048"
+    },
+    "GY": {
+        "cn_name": "圭亚那",
+        "en_name": "Guyana",
+        "three_code": "GUY",
+        "d_code": "328"
+    },
+    "GG": {
+        "cn_name": "根西",
+        "en_name": "Guernsey",
+        "three_code": "GGY",
+        "d_code": "831"
+    },
+    "GF": {
+        "cn_name": "法属圭亚那",
+        "en_name": "FrenchGuiana",
+        "three_code": "GUF",
+        "d_code": "254"
+    },
+    "GE": {
+        "cn_name": "格鲁吉亚",
+        "en_name": "Georgia",
+        "three_code": "GEO",
+        "d_code": "268"
+    },
+    "GD": {
+        "cn_name": "格瑞那达",
+        "en_name": "Grenada",
+        "three_code": "GRD",
+        "d_code": "308"
+    },
+    "GB": {
+        "cn_name": "英国",
+        "en_name": "UnitedKingdomofGreatBritainandNorthernIreland",
+        "three_code": "GBR",
+        "d_code": "826"
+    },
+    "GA": {
+        "cn_name": "加彭",
+        "en_name": "Gabon",
+        "three_code": "GAB",
+        "d_code": "266"
+    },
+    "PK": {
+        "cn_name": "巴基斯坦",
+        "en_name": "Pakistan",
+        "three_code": "PAK",
+        "d_code": "586"
+    },
+    "GN": {
+        "cn_name": "几内亚",
+        "en_name": "Guinea",
+        "three_code": "GIN",
+        "d_code": "324"
+    },
+    "GM": {
+        "cn_name": "冈比亚",
+        "en_name": "Gambia",
+        "three_code": "GMB",
+        "d_code": "270"
+    },
+    "GL": {
+        "cn_name": "格陵兰",
+        "en_name": "Greenland",
+        "three_code": "GRL",
+        "d_code": "304"
+    },
+    "GI": {
+        "cn_name": "直布罗陀",
+        "en_name": "Gibraltar",
+        "three_code": "GIB",
+        "d_code": "292"
+    },
+    "GH": {
+        "cn_name": "加纳",
+        "en_name": "Ghana",
+        "three_code": "GHA",
+        "d_code": "288"
+    },
+    "OM": {
+        "cn_name": "阿曼",
+        "en_name": "Oman",
+        "three_code": "OMN",
+        "d_code": "512"
+    },
+    "BW": {
+        "cn_name": "博茨瓦纳",
+        "en_name": "Botswana",
+        "three_code": "BWA",
+        "d_code": "072"
+    },
+    "IT": {
+        "cn_name": "义大利",
+        "en_name": "Italy",
+        "three_code": "ITA",
+        "d_code": "380"
+    },
+    "HR": {
+        "cn_name": "克罗地亚",
+        "en_name": "Croatia",
+        "three_code": "HRV",
+        "d_code": "191"
+    },
+    "HT": {
+        "cn_name": "海地",
+        "en_name": "Haiti",
+        "three_code": "HTI",
+        "d_code": "332"
+    },
+    "HU": {
+        "cn_name": "匈牙利",
+        "en_name": "Hungary",
+        "three_code": "HUN",
+        "d_code": "348"
+    },
+    "HK": {
+        "cn_name": "香港",
+        "en_name": "HongKong",
+        "three_code": "HKG",
+        "d_code": "344"
+    },
+    "HN": {
+        "cn_name": "洪都拉斯",
+        "en_name": "Honduras",
+        "three_code": "HND",
+        "d_code": "340"
+    },
+    "HM": {
+        "cn_name": "赫德岛和麦克唐纳群岛",
+        "en_name": "HeardIslandandMcDonaldIslands",
+        "three_code": "HMD",
+        "d_code": "334"
+    },
+    "AD": {
+        "cn_name": "安道尔",
+        "en_name": "Andorra",
+        "three_code": "AND",
+        "d_code": "020"
+    },
+    "PR": {
+        "cn_name": "波多黎各",
+        "en_name": "PuertoRico",
+        "three_code": "PRI",
+        "d_code": "630"
+    },
+    "PS": {
+        "cn_name": "巴勒斯坦",
+        "en_name": "Palestine,Stateof",
+        "three_code": "PSE",
+        "d_code": "275"
+    },
+    "PW": {
+        "cn_name": "帛琉",
+        "en_name": "Palau",
+        "three_code": "PLW",
+        "d_code": "585"
+    },
+    "PT": {
+        "cn_name": "葡萄牙",
+        "en_name": "Portugal",
+        "three_code": "PRT",
+        "d_code": "620"
+    },
+    "KN": {
+        "cn_name": "圣基茨和尼维斯",
+        "en_name": "SaintKittsandNevis",
+        "three_code": "KNA",
+        "d_code": "659"
+    },
+    "PY": {
+        "cn_name": "巴拉圭",
+        "en_name": "Paraguay",
+        "three_code": "PRY",
+        "d_code": "600"
+    },
+    "AI": {
+        "cn_name": "安圭拉",
+        "en_name": "Anguilla",
+        "three_code": "AIA",
+        "d_code": "660"
+    },
+    "PA": {
+        "cn_name": "巴拿马",
+        "en_name": "Panama",
+        "three_code": "PAN",
+        "d_code": "591"
+    },
+    "PF": {
+        "cn_name": "法属玻里尼西亚",
+        "en_name": "FrenchPolynesia",
+        "three_code": "PYF",
+        "d_code": "258"
+    },
+    "PG": {
+        "cn_name": "巴布亚新几内亚",
+        "en_name": "PapuaNewGuinea",
+        "three_code": "PNG",
+        "d_code": "598"
+    },
+    "PE": {
+        "cn_name": "秘鲁",
+        "en_name": "Peru",
+        "three_code": "PER",
+        "d_code": "604"
+    },
+    "KW": {
+        "cn_name": "科威特",
+        "en_name": "Kuwait",
+        "three_code": "KWT",
+        "d_code": "414"
+    },
+    "PH": {
+        "cn_name": "菲律宾",
+        "en_name": "Philippines",
+        "three_code": "PHL",
+        "d_code": "608"
+    },
+    "PN": {
+        "cn_name": "皮特凯恩群岛",
+        "en_name": "Pitcairn",
+        "three_code": "PCN",
+        "d_code": "612"
+    },
+    "PL": {
+        "cn_name": "波兰",
+        "en_name": "Poland",
+        "three_code": "POL",
+        "d_code": "616"
+    },
+    "PM": {
+        "cn_name": "圣皮埃尔和密克隆",
+        "en_name": "SaintPierreandMiquelon",
+        "three_code": "SPM",
+        "d_code": "666"
+    },
+    "ZM": {
+        "cn_name": "尚比亚",
+        "en_name": "Zambia",
+        "three_code": "ZMB",
+        "d_code": "894"
+    },
+    "EH": {
+        "cn_name": "西撒哈拉",
+        "en_name": "WesternSahara",
+        "three_code": "ESH",
+        "d_code": "732"
+    },
+    "EE": {
+        "cn_name": "爱沙尼亚",
+        "en_name": "Estonia",
+        "three_code": "EST",
+        "d_code": "233"
+    },
+    "EG": {
+        "cn_name": "埃及",
+        "en_name": "Egypt",
+        "three_code": "EGY",
+        "d_code": "818"
+    },
+    "ZA": {
+        "cn_name": "南非",
+        "en_name": "SouthAfrica",
+        "three_code": "ZAF",
+        "d_code": "710"
+    },
+    "EC": {
+        "cn_name": "厄瓜多尔",
+        "en_name": "Ecuador",
+        "three_code": "ECU",
+        "d_code": "218"
+    },
+    "SJ": {
+        "cn_name": "斯瓦尔巴和扬马延",
+        "en_name": "SvalbardandJanMayen",
+        "three_code": "SJM",
+        "d_code": "744"
+    },
+    "VN": {
+        "cn_name": "越南",
+        "en_name": "VietNam",
+        "three_code": "VNM",
+        "d_code": "704"
+    },
+    "KZ": {
+        "cn_name": "哈萨克斯坦",
+        "en_name": "Kazakhstan",
+        "three_code": "KAZ",
+        "d_code": "398"
+    },
+    "ET": {
+        "cn_name": "衣索比亚",
+        "en_name": "Ethiopia",
+        "three_code": "ETH",
+        "d_code": "231"
+    },
+    "ZW": {
+        "cn_name": "辛巴威",
+        "en_name": "Zimbabwe",
+        "three_code": "ZWE",
+        "d_code": "716"
+    },
+    "SA": {
+        "cn_name": "沙乌地阿拉伯",
+        "en_name": "SaudiArabia",
+        "three_code": "SAU",
+        "d_code": "682"
+    },
+    "ES": {
+        "cn_name": "西班牙",
+        "en_name": "Spain",
+        "three_code": "ESP",
+        "d_code": "724"
+    },
+    "ER": {
+        "cn_name": "厄立特里亚",
+        "en_name": "Eritrea",
+        "three_code": "ERI",
+        "d_code": "232"
+    },
+    "ME": {
+        "cn_name": "蒙特内哥罗",
+        "en_name": "Montenegro",
+        "three_code": "MNE",
+        "d_code": "499"
+    },
+    "MD": {
+        "cn_name": "摩尔多瓦",
+        "en_name": "Moldova(Republicof)",
+        "three_code": "MDA",
+        "d_code": "498"
+    },
+    "MG": {
+        "cn_name": "马达加斯加",
+        "en_name": "Madagascar",
+        "three_code": "MDG",
+        "d_code": "450"
+    },
+    "MF": {
+        "cn_name": "法属圣马丁",
+        "en_name": "SaintMartin(Frenchpart)",
+        "three_code": "MAF",
+        "d_code": "663"
+    },
+    "MA": {
+        "cn_name": "摩洛哥",
+        "en_name": "Morocco",
+        "three_code": "MAR",
+        "d_code": "504"
+    },
+    "MC": {
+        "cn_name": "摩纳哥",
+        "en_name": "Monaco",
+        "three_code": "MCO",
+        "d_code": "492"
+    },
+    "UZ": {
+        "cn_name": "乌兹别克斯坦",
+        "en_name": "Uzbekistan",
+        "three_code": "UZB",
+        "d_code": "860"
+    },
+    "MM": {
+        "cn_name": "缅甸",
+        "en_name": "Myanmar",
+        "three_code": "MMR",
+        "d_code": "104"
+    },
+    "ML": {
+        "cn_name": "马里",
+        "en_name": "Mali",
+        "three_code": "MLI",
+        "d_code": "466"
+    },
+    "MO": {
+        "cn_name": "澳门",
+        "en_name": "Macao",
+        "three_code": "MAC",
+        "d_code": "446"
+    },
+    "MN": {
+        "cn_name": "蒙古国",
+        "en_name": "Mongolia",
+        "three_code": "MNG",
+        "d_code": "496"
+    },
+    "MH": {
+        "cn_name": "马绍尔群岛",
+        "en_name": "MarshallIslands",
+        "three_code": "MHL",
+        "d_code": "584"
+    },
+    "MK": {
+        "cn_name": "北马其顿",
+        "en_name": "NorthMacedonia",
+        "three_code": "MKD",
+        "d_code": "807"
+    },
+    "UM": {
+        "cn_name": "美国本土外小岛屿",
+        "en_name": "UnitedStatesMinorOutlyingIslands",
+        "three_code": "UMI",
+        "d_code": "581"
+    },
+    "MT": {
+        "cn_name": "马尔他",
+        "en_name": "Malta",
+        "three_code": "MLT",
+        "d_code": "470"
+    },
+    "MW": {
+        "cn_name": "马拉维",
+        "en_name": "Malawi",
+        "three_code": "MWI",
+        "d_code": "454"
+    },
+    "MV": {
+        "cn_name": "马尔地夫",
+        "en_name": "Maldives",
+        "three_code": "MDV",
+        "d_code": "462"
+    },
+    "MQ": {
+        "cn_name": "马提尼克",
+        "en_name": "Martinique",
+        "three_code": "MTQ",
+        "d_code": "474"
+    },
+    "MP": {
+        "cn_name": "北马里亚纳群岛",
+        "en_name": "NorthernMarianaIslands",
+        "three_code": "MNP",
+        "d_code": "580"
+    },
+    "MS": {
+        "cn_name": "蒙特塞拉特",
+        "en_name": "Montserrat",
+        "three_code": "MSR",
+        "d_code": "500"
+    },
+    "MR": {
+        "cn_name": "毛里塔尼亚",
+        "en_name": "Mauritania",
+        "three_code": "MRT",
+        "d_code": "478"
+    },
+    "AU": {
+        "cn_name": "澳大利亚",
+        "en_name": "Australia",
+        "three_code": "AUS",
+        "d_code": "036"
+    },
+    "UG": {
+        "cn_name": "乌干达",
+        "en_name": "Uganda",
+        "three_code": "UGA",
+        "d_code": "800"
+    },
+    "UA": {
+        "cn_name": "乌克兰",
+        "en_name": "Ukraine",
+        "three_code": "UKR",
+        "d_code": "804"
+    },
+    "MX": {
+        "cn_name": "墨西哥",
+        "en_name": "Mexico",
+        "three_code": "MEX",
+        "d_code": "484"
+    },
+    "AT": {
+        "cn_name": "奥地利",
+        "en_name": "Austria",
+        "three_code": "AUT",
+        "d_code": "040"
+    },
+    "FR": {
+        "cn_name": "法国",
+        "en_name": "France",
+        "three_code": "FRA",
+        "d_code": "250"
+    },
+    "AW": {
+        "cn_name": "阿鲁巴",
+        "en_name": "Aruba",
+        "three_code": "ABW",
+        "d_code": "533"
+    },
+    "AX": {
+        "cn_name": "奥兰",
+        "en_name": "ÅlandIslands",
+        "three_code": "ALA",
+        "d_code": "248"
+    },
+    "FI": {
+        "cn_name": "芬兰",
+        "en_name": "Finland",
+        "three_code": "FIN",
+        "d_code": "246"
+    },
+    "FJ": {
+        "cn_name": "斐济",
+        "en_name": "Fiji",
+        "three_code": "FJI",
+        "d_code": "242"
+    },
+    "FK": {
+        "cn_name": "福克兰群岛",
+        "en_name": "FalklandIslands(Malvinas)",
+        "three_code": "FLK",
+        "d_code": "238"
+    },
+    "FM": {
+        "cn_name": "密克罗尼西亚联邦",
+        "en_name": "Micronesia(FederatedStatesof)",
+        "three_code": "FSM",
+        "d_code": "583"
+    },
+    "FO": {
+        "cn_name": "法罗群岛",
+        "en_name": "FaroeIslands",
+        "three_code": "FRO",
+        "d_code": "234"
+    },
+    "NI": {
+        "cn_name": "尼加拉瓜",
+        "en_name": "Nicaragua",
+        "three_code": "NIC",
+        "d_code": "558"
+    },
+    "NL": {
+        "cn_name": "荷兰",
+        "en_name": "Netherlands",
+        "three_code": "NLD",
+        "d_code": "528"
+    },
+    "NO": {
+        "cn_name": "挪威",
+        "en_name": "Norway",
+        "three_code": "NOR",
+        "d_code": "578"
+    },
+    "NA": {
+        "cn_name": "纳米比亚",
+        "en_name": "Namibia",
+        "three_code": "NAM",
+        "d_code": "516"
+    },
+    "VU": {
+        "cn_name": "瓦努阿图",
+        "en_name": "Vanuatu",
+        "three_code": "VUT",
+        "d_code": "548"
+    },
+    "NC": {
+        "cn_name": "新喀里多尼亚",
+        "en_name": "NewCaledonia",
+        "three_code": "NCL",
+        "d_code": "540"
+    },
+    "NE": {
+        "cn_name": "尼日尔",
+        "en_name": "Niger",
+        "three_code": "NER",
+        "d_code": "562"
+    },
+    "NF": {
+        "cn_name": "诺福克岛",
+        "en_name": "NorfolkIsland",
+        "three_code": "NFK",
+        "d_code": "574"
+    },
+    "NG": {
+        "cn_name": "奈及利亚",
+        "en_name": "Nigeria",
+        "three_code": "NGA",
+        "d_code": "566"
+    },
+    "NZ": {
+        "cn_name": "新西兰",
+        "en_name": "NewZealand",
+        "three_code": "NZL",
+        "d_code": "554"
+    },
+    "NP": {
+        "cn_name": "尼泊尔",
+        "en_name": "Nepal",
+        "three_code": "NPL",
+        "d_code": "524"
+    },
+    "NR": {
+        "cn_name": "瑙鲁",
+        "en_name": "Nauru",
+        "three_code": "NRU",
+        "d_code": "520"
+    },
+    "NU": {
+        "cn_name": "纽埃",
+        "en_name": "Niue",
+        "three_code": "NIU",
+        "d_code": "570"
+    },
+    "CK": {
+        "cn_name": "库克群岛",
+        "en_name": "CookIslands",
+        "three_code": "COK",
+        "d_code": "184"
+    },
+    "CI": {
+        "cn_name": "科特迪瓦",
+        "en_name": "Côted\"Ivoire",
+        "three_code": "CIV",
+        "d_code": "384"
+    },
+    "CH": {
+        "cn_name": "瑞士",
+        "en_name": "Switzerland",
+        "three_code": "CHE",
+        "d_code": "756"
+    },
+    "CO": {
+        "cn_name": "哥伦比亚",
+        "en_name": "Colombia",
+        "three_code": "COL",
+        "d_code": "170"
+    },
+    "CN": {
+        "cn_name": "中国",
+        "en_name": "China",
+        "three_code": "CHN",
+        "d_code": "156"
+    },
+    "CM": {
+        "cn_name": "喀麦隆",
+        "en_name": "Cameroon",
+        "three_code": "CMR",
+        "d_code": "120"
+    },
+    "CL": {
+        "cn_name": "智利",
+        "en_name": "Chile",
+        "three_code": "CHL",
+        "d_code": "152"
+    },
+    "CC": {
+        "cn_name": "科科斯（基林）群岛",
+        "en_name": "Cocos(Keeling)Islands",
+        "three_code": "CCK",
+        "d_code": "166"
+    },
+    "TWN": {
+        "cn_name": "否",
+        "en_name": "Taiwan,ProvinceofChinaTW",
+        "three_code": "158",
+        "d_code": "中国台湾省"
+    },
+    "CA": {
+        "cn_name": "加拿大",
+        "en_name": "Canada",
+        "three_code": "CAN",
+        "d_code": "124"
+    },
+    "CG": {
+        "cn_name": "刚果（布）",
+        "en_name": "Congo",
+        "three_code": "COG",
+        "d_code": "178"
+    },
+    "CF": {
+        "cn_name": "中非",
+        "en_name": "CentralAfricanRepublic",
+        "three_code": "CAF",
+        "d_code": "140"
+    },
+    "CD": {
+        "cn_name": "刚果（金）",
+        "en_name": "Congo(DemocraticRepublicofthe)",
+        "three_code": "COD",
+        "d_code": "180"
+    },
+    "CZ": {
+        "cn_name": "捷克",
+        "en_name": "Czechia",
+        "three_code": "CZE",
+        "d_code": "203"
+    },
+    "CY": {
+        "cn_name": "赛普勒斯",
+        "en_name": "Cyprus",
+        "three_code": "CYP",
+        "d_code": "196"
+    },
+    "CX": {
+        "cn_name": "圣诞岛",
+        "en_name": "ChristmasIsland",
+        "three_code": "CXR",
+        "d_code": "162"
+    },
+    "CR": {
+        "cn_name": "哥斯达黎加",
+        "en_name": "CostaRica",
+        "three_code": "CRI",
+        "d_code": "188"
+    },
+    "KP": {
+        "cn_name": "朝鲜",
+        "en_name": "Korea(DemocraticPeople\"sRepublicof)",
+        "three_code": "PRK",
+        "d_code": "408"
+    },
+    "CW": {
+        "cn_name": "库拉索",
+        "en_name": "Curaçao",
+        "three_code": "CUW",
+        "d_code": "531"
+    },
+    "CV": {
+        "cn_name": "佛得角",
+        "en_name": "CaboVerde",
+        "three_code": "CPV",
+        "d_code": "132"
+    },
+    "CU": {
+        "cn_name": "古巴",
+        "en_name": "Cuba",
+        "three_code": "CUB",
+        "d_code": "192"
+    },
+    "SZ": {
+        "cn_name": "斯威士兰",
+        "en_name": "Eswatini",
+        "three_code": "SWZ",
+        "d_code": "748"
+    },
+    "SY": {
+        "cn_name": "叙利亚",
+        "en_name": "SyrianArabRepublic",
+        "three_code": "SYR",
+        "d_code": "760"
+    },
+    "SX": {
+        "cn_name": "圣马丁",
+        "en_name": "SintMaarten(Dutchpart)",
+        "three_code": "SXM",
+        "d_code": "534"
+    },
+    "KG": {
+        "cn_name": "吉尔吉斯斯坦",
+        "en_name": "Kyrgyzstan",
+        "three_code": "KGZ",
+        "d_code": "417"
+    },
+    "KE": {
+        "cn_name": "肯尼亚",
+        "en_name": "Kenya",
+        "three_code": "KEN",
+        "d_code": "404"
+    },
+    "SS": {
+        "cn_name": "南苏丹",
+        "en_name": "SouthSudan",
+        "three_code": "SSD",
+        "d_code": "728"
+    },
+    "SR": {
+        "cn_name": "苏里南",
+        "en_name": "Suriname",
+        "three_code": "SUR",
+        "d_code": "740"
+    },
+    "KI": {
+        "cn_name": "基里巴斯",
+        "en_name": "Kiribati",
+        "three_code": "KIR",
+        "d_code": "296"
+    },
+    "KH": {
+        "cn_name": "柬埔寨",
+        "en_name": "Cambodia",
+        "three_code": "KHM",
+        "d_code": "116"
+    },
+    "SV": {
+        "cn_name": "萨尔瓦多",
+        "en_name": "ElSalvador",
+        "three_code": "SLV",
+        "d_code": "222"
+    },
+    "KM": {
+        "cn_name": "科摩罗",
+        "en_name": "Comoros",
+        "three_code": "COM",
+        "d_code": "174"
+    },
+    "ST": {
+        "cn_name": "圣多美和普林西比",
+        "en_name": "SaoTomeandPrincipe",
+        "three_code": "STP",
+        "d_code": "678"
+    },
+    "SK": {
+        "cn_name": "斯洛伐克",
+        "en_name": "Slovakia",
+        "three_code": "SVK",
+        "d_code": "703"
+    },
+    "KR": {
+        "cn_name": "韩国",
+        "en_name": "Korea(Republicof)",
+        "three_code": "KOR",
+        "d_code": "410"
+    },
+    "SI": {
+        "cn_name": "斯洛维尼亚",
+        "en_name": "Slovenia",
+        "three_code": "SVN",
+        "d_code": "705"
+    },
+    "SH": {
+        "cn_name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+        "en_name": "SaintHelena,AscensionandTristandaCunha",
+        "three_code": "SHN",
+        "d_code": "654"
+    },
+    "SO": {
+        "cn_name": "索马利亚",
+        "en_name": "Somalia",
+        "three_code": "SOM",
+        "d_code": "706"
+    },
+    "SN": {
+        "cn_name": "塞内加尔",
+        "en_name": "Senegal",
+        "three_code": "SEN",
+        "d_code": "686"
+    },
+    "SM": {
+        "cn_name": "圣马力诺",
+        "en_name": "SanMarino",
+        "three_code": "SMR",
+        "d_code": "674"
+    },
+    "SL": {
+        "cn_name": "塞拉利昂",
+        "en_name": "SierraLeone",
+        "three_code": "SLE",
+        "d_code": "694"
+    },
+    "SC": {
+        "cn_name": "塞舌尔",
+        "en_name": "Seychelles",
+        "three_code": "SYC",
+        "d_code": "690"
+    },
+    "SB": {
+        "cn_name": "所罗门群岛",
+        "en_name": "SolomonIslands",
+        "three_code": "SLB",
+        "d_code": "090"
+    },
+    "KY": {
+        "cn_name": "开曼群岛",
+        "en_name": "CaymanIslands",
+        "three_code": "CYM",
+        "d_code": "136"
+    },
+    "SG": {
+        "cn_name": "新加坡",
+        "en_name": "Singapore",
+        "three_code": "SGP",
+        "d_code": "702"
+    },
+    "SE": {
+        "cn_name": "瑞典",
+        "en_name": "Sweden",
+        "three_code": "SWE",
+        "d_code": "752"
+    },
+    "SD": {
+        "cn_name": "苏丹",
+        "en_name": "Sudan",
+        "three_code": "SDN",
+        "d_code": "729"
+    },
+    "DO": {
+        "cn_name": "多米尼加",
+        "en_name": "DominicanRepublic",
+        "three_code": "DOM",
+        "d_code": "214"
+    },
+    "DM": {
+        "cn_name": "多米尼克",
+        "en_name": "Dominica",
+        "three_code": "DMA",
+        "d_code": "212"
+    },
+    "DJ": {
+        "cn_name": "吉布提",
+        "en_name": "Djibouti",
+        "three_code": "DJI",
+        "d_code": "262"
+    },
+    "DK": {
+        "cn_name": "丹麦",
+        "en_name": "Denmark",
+        "three_code": "DNK",
+        "d_code": "208"
+    },
+    "VG": {
+        "cn_name": "英属维尔京群岛",
+        "en_name": "VirginIslands(British)",
+        "three_code": "VGB",
+        "d_code": "092"
+    },
+    "DE": {
+        "cn_name": "德国",
+        "en_name": "Germany",
+        "three_code": "DEU",
+        "d_code": "276"
+    },
+    "YE": {
+        "cn_name": "叶门",
+        "en_name": "Yemen",
+        "three_code": "YEM",
+        "d_code": "887"
+    },
+    "DZ": {
+        "cn_name": "阿尔及利亚",
+        "en_name": "Algeria",
+        "three_code": "DZA",
+        "d_code": "012"
+    },
+    "US": {
+        "cn_name": "美国",
+        "en_name": "UnitedStatesofAmerica",
+        "three_code": "USA",
+        "d_code": "840"
+    },
+    "UY": {
+        "cn_name": "乌拉圭",
+        "en_name": "Uruguay",
+        "three_code": "URY",
+        "d_code": "858"
+    },
+    "YT": {
+        "cn_name": "马约特",
+        "en_name": "Mayotte",
+        "three_code": "MYT",
+        "d_code": "175"
+    },
+    "MU": {
+        "cn_name": "模里西斯",
+        "en_name": "Mauritius",
+        "three_code": "MUS",
+        "d_code": "480"
+    },
+    "LB": {
+        "cn_name": "黎巴嫩",
+        "en_name": "Lebanon",
+        "three_code": "LBN",
+        "d_code": "422"
+    },
+    "LC": {
+        "cn_name": "圣卢西亚",
+        "en_name": "SaintLucia",
+        "three_code": "LCA",
+        "d_code": "662"
+    },
+    "LA": {
+        "cn_name": "老挝",
+        "en_name": "LaoPeople\"sDemocraticRepublic",
+        "three_code": "LAO",
+        "d_code": "418"
+    },
+    "TV": {
+        "cn_name": "图瓦卢",
+        "en_name": "Tuvalu",
+        "three_code": "TUV",
+        "d_code": "798"
+    },
+    "TT": {
+        "cn_name": "千里达及托巴哥",
+        "en_name": "TrinidadandTobago",
+        "three_code": "TTO",
+        "d_code": "780"
+    },
+    "TR": {
+        "cn_name": "土耳其",
+        "en_name": "Turkey",
+        "three_code": "TUR",
+        "d_code": "792"
+    },
+    "LK": {
+        "cn_name": "斯里兰卡",
+        "en_name": "SriLanka",
+        "three_code": "LKA",
+        "d_code": "144"
+    },
+    "LI": {
+        "cn_name": "列支敦斯登",
+        "en_name": "Liechtenstein",
+        "three_code": "LIE",
+        "d_code": "438"
+    },
+    "TN": {
+        "cn_name": "突尼西亚",
+        "en_name": "Tunisia",
+        "three_code": "TUN",
+        "d_code": "788"
+    },
+    "TO": {
+        "cn_name": "汤加",
+        "en_name": "Tonga",
+        "three_code": "TON",
+        "d_code": "776"
+    },
+    "TL": {
+        "cn_name": "东帝汶",
+        "en_name": "Timor-Leste",
+        "three_code": "TLS",
+        "d_code": "626"
+    },
+    "LU": {
+        "cn_name": "卢森堡",
+        "en_name": "Luxembourg",
+        "three_code": "LUX",
+        "d_code": "442"
+    },
+    "TJ": {
+        "cn_name": "塔吉克斯坦",
+        "en_name": "Tajikistan",
+        "three_code": "TJK",
+        "d_code": "762"
+    },
+    "TK": {
+        "cn_name": "托克劳",
+        "en_name": "Tokelau",
+        "three_code": "TKL",
+        "d_code": "772"
+    },
+    "TH": {
+        "cn_name": "泰国",
+        "en_name": "Thailand",
+        "three_code": "THA",
+        "d_code": "764"
+    },
+    "TF": {
+        "cn_name": "法属南方和南极洲领地",
+        "en_name": "FrenchSouthernTerritories",
+        "three_code": "ATF",
+        "d_code": "260"
+    },
+    "TG": {
+        "cn_name": "多哥",
+        "en_name": "Togo",
+        "three_code": "TGO",
+        "d_code": "768"
+    },
+    "TD": {
+        "cn_name": "乍得",
+        "en_name": "Chad",
+        "three_code": "TCD",
+        "d_code": "148"
+    },
+    "TC": {
+        "cn_name": "特克斯和凯科斯群岛",
+        "en_name": "TurksandCaicosIslands",
+        "three_code": "TCA",
+        "d_code": "796"
+    },
+    "LY": {
+        "cn_name": "利比亚",
+        "en_name": "Libya",
+        "three_code": "LBY",
+        "d_code": "434"
+    },
+    "VA": {
+        "cn_name": "梵蒂冈",
+        "en_name": "HolySee",
+        "three_code": "VAT",
+        "d_code": "336"
+    },
+    "VC": {
+        "cn_name": "圣文森特和格林纳丁斯",
+        "en_name": "SaintVincentandtheGrenadines",
+        "three_code": "VCT",
+        "d_code": "670"
+    },
+    "AE": {
+        "cn_name": "阿联酋",
+        "en_name": "UnitedArabEmirates",
+        "three_code": "ARE",
+        "d_code": "784"
+    },
+    "VE": {
+        "cn_name": "委内瑞拉",
+        "en_name": "Venezuela(BolivarianRepublicof)",
+        "three_code": "VEN",
+        "d_code": "862"
+    },
+    "AG": {
+        "cn_name": "安地卡及巴布达",
+        "en_name": "AntiguaandBarbuda",
+        "three_code": "ATG",
+        "d_code": "028"
+    },
+    "AF": {
+        "cn_name": "阿富汗",
+        "en_name": "Afghanistan",
+        "three_code": "AFG",
+        "d_code": "004"
+    },
+    "IQ": {
+        "cn_name": "伊拉克",
+        "en_name": "Iraq",
+        "three_code": "IRQ",
+        "d_code": "368"
+    },
+    "VI": {
+        "cn_name": "美属维尔京群岛",
+        "en_name": "VirginIslands(U.S.)",
+        "three_code": "VIR",
+        "d_code": "850"
+    },
+    "IS": {
+        "cn_name": "冰岛",
+        "en_name": "Iceland",
+        "three_code": "ISL",
+        "d_code": "352"
+    },
+    "IR": {
+        "cn_name": "伊朗",
+        "en_name": "Iran(IslamicRepublicof)",
+        "three_code": "IRN",
+        "d_code": "364"
+    },
+    "AM": {
+        "cn_name": "亚美尼亚",
+        "en_name": "Armenia",
+        "three_code": "ARM",
+        "d_code": "051"
+    },
+    "AL": {
+        "cn_name": "阿尔巴尼亚",
+        "en_name": "Albania",
+        "three_code": "ALB",
+        "d_code": "008"
+    },
+    "AO": {
+        "cn_name": "安哥拉",
+        "en_name": "Angola",
+        "three_code": "AGO",
+        "d_code": "024"
+    },
+    "AQ": {
+        "cn_name": "南极洲",
+        "en_name": "Antarctica",
+        "three_code": "ATA",
+        "d_code": "010"
+    },
+    "AS": {
+        "cn_name": "美属萨摩亚",
+        "en_name": "AmericanSamoa",
+        "three_code": "ASM",
+        "d_code": "016"
+    },
+    "AR": {
+        "cn_name": "阿根廷",
+        "en_name": "Argentina",
+        "three_code": "ARG",
+        "d_code": "032"
+    },
+    "IM": {
+        "cn_name": "马恩岛",
+        "en_name": "IsleofMan",
+        "three_code": "IMN",
+        "d_code": "833"
+    },
+    "IL": {
+        "cn_name": "以色列",
+        "en_name": "Israel",
+        "three_code": "ISR",
+        "d_code": "376"
+    },
+    "IO": {
+        "cn_name": "英属印度洋领地",
+        "en_name": "BritishIndianOceanTerritory",
+        "three_code": "IOT",
+        "d_code": "086"
+    },
+    "IN": {
+        "cn_name": "印度",
+        "en_name": "India",
+        "three_code": "IND",
+        "d_code": "356"
+    },
+    "TZ": {
+        "cn_name": "坦桑尼亚",
+        "en_name": "Tanzania,UnitedRepublicof",
+        "three_code": "TZA",
+        "d_code": "834"
+    },
+    "AZ": {
+        "cn_name": "阿塞拜疆",
+        "en_name": "Azerbaijan",
+        "three_code": "AZE",
+        "d_code": "031"
+    },
+    "IE": {
+        "cn_name": "爱尔兰",
+        "en_name": "Ireland",
+        "three_code": "IRL",
+        "d_code": "372"
+    },
+    "ID": {
+        "cn_name": "印尼",
+        "en_name": "Indonesia",
+        "three_code": "IDN",
+        "d_code": "360"
+    },
+    "MY": {
+        "cn_name": "马来西亚",
+        "en_name": "Malaysia",
+        "three_code": "MYS",
+        "d_code": "458"
+    },
+    "QA": {
+        "cn_name": "卡塔尔",
+        "en_name": "Qatar",
+        "three_code": "QAT",
+        "d_code": "634"
+    },
+    "MZ": {
+        "cn_name": "莫桑比克",
+        "en_name": "Mozambique",
+        "three_code": "MOZ",
+        "d_code": "508"
+    }
+}

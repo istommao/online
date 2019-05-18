@@ -3,6 +3,8 @@
 ISO标准国家代码 https://www.wikiwand.com/zh-hans/ISO_3166-1
 国旗图片来自 http://flagpedia.asia/
 
+- flags.json [flags.json](../resources/flags/flags.json)
+
 ## 美国本土外小岛屿
 ![flag](../resources/flags/um.png)
 
