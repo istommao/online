@@ -27,6 +27,7 @@ urlpatterns = [
     path('search/', views.SearchView.as_view()),
     path('music/', views.MusicDemoView.as_view()),
 
-    path('admin/', admin.site.urls),
-    path('app/api/', include('app.urls')),
+    # path('admin/', admin.site.urls),
+    path('app/api/', include('app.api_urls')),
+    path('app/view/', include('app.view_urls')),
 ]
