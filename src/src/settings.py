@@ -140,3 +140,10 @@ REST_FRAMEWORK = {
         'rest_framework.renderers.JSONRenderer',
     ),
 }
+
+
+try:
+    # pylint: disable=W0614, C0413, wildcard-import
+    from src.local_settings import *   # noqa
+except ImportError:
+    pass
