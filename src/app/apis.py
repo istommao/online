@@ -21,3 +21,13 @@ class HttpCodeSearchAPI(APIView):
 
         retdata = {'result': services.http_code_search(keyword)}
         return Response(retdata)
+
+
+
+class ShortUrlCodeAPI(APIView):
+
+    def get(self, request):
+        url = request.query_params.get('url', '')
+
+        retdata = {'result': services.get_short_url_code(url)}
+        return Response(retdata)
