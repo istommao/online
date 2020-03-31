@@ -10,3 +10,8 @@ class IDCardView(TemplateView):
 class CatBlogDemoView(TemplateView):
 
     template_name = 'app/catblog_demo.html'
+
+
+class CatBlogDetailView(TemplateView):
+
+    template_name = 'app/catblog_detail.html'
